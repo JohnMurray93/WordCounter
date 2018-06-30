@@ -1,5 +1,7 @@
 # _WordCounter_
 
+## [See this project on Github](https://github.com/JohnMurray93/WordCounter)
+
 #### By _**John Murray**_
 
 ## Description
